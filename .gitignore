@@ -51,3 +51,7 @@ fabric.properties
 *.iml
 out
 gen
+.gitignore
+.idea/binaryVolumeMeter.iml
+.idea/modules.xml
+.idea/workspace.xml
